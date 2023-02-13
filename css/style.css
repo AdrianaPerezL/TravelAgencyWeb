@@ -600,6 +600,8 @@ body {
 @media (max-width: 768px) {
   .navbar {
     opacity: 0.95;
+    width: 572px;
+
   }
 
   .navbar-container input[type="checkbox"],
