@@ -893,6 +893,11 @@ body {
   }
 }
 
+@media (max-width: 300px){
+.showcase-area, .text-container, #about, #food, #food-menu, #testimonials, #contact{
+  padding-right: 377px;
+}
+}
 @media (orientation: landscape) and (max-height: 500px) {
   .showcase-area {
     height: 50vmax;
